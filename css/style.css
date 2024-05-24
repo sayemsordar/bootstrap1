@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* navbar section css started */
+.navbar-brand span{
+    color: rgb(107, 145, 25);
+}
+.collapse .nav-item .nav-link{
+    color: #1240ca;
+}
+/* navber section css stop */
+
+/* about section css started */
+.about{
+    background-color: aliceblue;
+    margin-top: 50px;
+}
+.text-part h1{
+    margin-top: 40px;
+    text-align: center;
+    color: chocolate;
+}
+.text-part h4{
+    margin-top: 30px;
+    text-align: center;
+    color: darkgreen;
+}
+.text-part p{
+    margin-top: 30px;
+    text-align: center;
+    color: darkgreen;
+}
+.text-part h6{
+    margin-top: 30px;
+    text-align: center;
+    color: darkred;
+}
+.text-part h6 span{
+    color: coral;
+}
+.text-part .button1{
+    text-align: center;
+    margin-top: 50px;
+}
+.text-part .button1 a{
+    text-decoration: none;
+    border: 1px solid darkgreen;
+    padding: 10px 22px;
+    color: black;
+}
+.button1 a:hover {
+    background-color: chartreuse;
+}
+/* about section css stop */
+
+
+/* servic section css started */
+.section-header h2{
+    text-align: center;
+    margin-top: 40px;
+    color: chartreuse;
+}
+.section-header h2 span{
+    color: chocolate;
+}
+.section-header p{
+    margin-top: 20px;
+    text-align: center;
+    color: darkgray;
+}
+.justify{
+    background-color: black;
+}
+.justify .singel-servic{
+    padding: 40px;
+}
+.justify h2{
+    color: chartreuse;
+}
+.justify p{
+    color: cornflowerblue;
+}
+/* servic section css stop */
+
+/* review section css started */
+.review{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    background-color:aliceblue;
+}
+/* review section css stop*/
+
+
+/* card section css started */
+.text-part2 h1{
+    text-align: center;
+    margin-top: 30px;
+    color: chartreuse;
+}
+.text-part2 p{
+    text-align: center;
+    margin-top: 20px;
+    color: blueviolet;
+}
+.card{
+    margin-top: 30px;
+    background-color: aliceblue;
+}
+/* card section css stop */
+
+/* beutiful section css started */
+
+
+.title{
+    margin-top: 70px;
+}
+.title h2{
+    text-align: center;
+    color: chartreuse;
+}
+
+
+.title p{
+    width: 50%;
+    margin: 0px auto;
+    font-size: 15px;
+    line-height: 27px;
+    color: #73879c;
+}
+.meadia-img{
+    height: 70px;
+    margin-left: 10px;
+}
+.media-body{
+    margin-left: 15px;
+}
+.media-body p{
+    margin-top: 20px;
+    font-size: 14px;
+    line-height: 24px;
+    color: #1240ca;
+}
+
+.float .meadia-img{
+    display: flex;
+    margin-top: 70px;
+}
+.owl-carousel{
+    display: flex;
+}
+/* beutiful section css stop */
+
+/* footer section css started */
+.footer{
+    margin-top: 250px;
+    margin-bottom: 100px;
+    background-color: darkgreen;
+}
+.footer h1{
+    text-align: center;
+    color: hotpink;
+    margin-top: 20px;
+}
+.footer h3{
+    text-align: center;
+    color: chartreuse;
+    margin-top: 20px;
+}
+.footer p{
+    text-align: center;
+    margin-top: 20px;
+    color: chocolate;
+}
+.footer .imeag {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+/* footer section css stop */
